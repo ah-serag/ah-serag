@@ -2,25 +2,26 @@
 
 ---
 
- **Im Ahmed Serag** 
- **Web Developer** 
+ **Im Ahmed Serag (Web Developer)** 
 ## 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
 [![Email](https://img.shields.io/badge/Email-aserag877@gmail.com-red?logo=gmail&logoColor=white)](mailto:aserag877@gmail.com)
 
 
 ---
+"I am Ahmed Serag, a **web developer** and **designer** dedicated to crafting **high-performance**, **secure**, and fully **responsive websites**. My mission is to **transform ideas** into **visually stunning** and **user-friendly digital experiences**. I combine **modern design principles** with **cutting-edge technologies** to deliver projects that not only **look amazing** but also **perform flawlessly** across all devices. With a strong focus on **clean code**, **scalability**, and **security**, I ensure every project meets the **highest standards**. Whether it’s building a **dynamic web application**, designing an **intuitive interface**, or optimizing **user experience**, I bring **creativity**, **precision**, and **professionalism** to every line of code. "
 
-## 🛠️ Focused Technologies
+
+
+
+---
+##  Focused Technologies
 - **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express  
+- **Backend:** Node.js, Express , MySQL MongoDB
 - **Other Tools:** Git, GitHub, Figma, VS Code  
 
 ---
 
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/yourusername)  
-✉️ [your-email@example.com](mailto:your-email@example.com)
+
 
 
