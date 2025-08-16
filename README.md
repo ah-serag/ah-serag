@@ -21,6 +21,7 @@
 - **Other Tools:** Git, GitHub, Figma, VS Code  
 
 ---
+<img width="1000" height="100" alt="Ahmed serag (6)" src="https://github.com/user-attachments/assets/d1a756f9-bf39-40a5-8d8d-0db02790bde2" />
 
 
 
